@@ -1,0 +1,2 @@
+include ':app', ':openCVLibrary342'
+rootProject.name='park'
